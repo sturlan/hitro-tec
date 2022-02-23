@@ -1,0 +1,4 @@
+[submodule "OCA/intrastat-extrastat"]
+	path = OCA/intrastat-extrastat
+	url = git@github.com:OCA/intrastat-extrastat.git
+	branch = 14.0
